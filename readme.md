@@ -19,6 +19,9 @@ Download files, open a terminal inside the downloaded folder, run
 When ready run this cmd to start the backend listener.
 > npm run start
 
+Open a browser and go to 
+> http://localhost:3001
+
 * [Video tutorial]()
 
 #### License MIT
